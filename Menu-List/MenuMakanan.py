@@ -26,9 +26,6 @@ subMenu2("Rp. 24,000 Jus Mangga")
 subMenu2("Rp. 20,000 Jus Alpukat")
 subMenu2("Rp. 21,000 Jus Sirsak")
 
-def total(harga , jumlah):
-    return harga*jumlah
-
 def total(harga, jumlah):
     return harga * jumlah
 

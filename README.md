@@ -20,9 +20,6 @@ subMenu2("Rp. 21,000 Jus Sirsak")
 def total(harga , jumlah):
     return harga*jumlah
 
-def total(harga, jumlah):
-    return harga * jumlah
-
 harga = int(input("Masukkan Harga: "))
 ```
 Input Total of the Food price

@@ -1,4 +1,4 @@
-## 🎂 foodDrinkMenu 
+## => foodDrinkMenu 
 #### Needed :
 Choose integer 1 or 2
 ```py

@@ -1,4 +1,4 @@
-## 🎂 foodMenu 
+## 🎂 foodDrinkMenu 
 #### needed :
 Choose integer 1 or 2
 ```py
@@ -22,7 +22,7 @@ def total(harga , jumlah):
 
 harga = int(input("Masukkan Harga: "))
 ```
-Input Total of the Food price
+Input Total of the Food or Drink price
 ```py
 jumlah = int(input("Masukkan Jumlah: "))
 Total = total(harga, jumlah)
